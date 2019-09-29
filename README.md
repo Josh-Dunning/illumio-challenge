@@ -1,3 +1,5 @@
+Note: Code written for Python 3.5.2
+
 Design Decisions
 ================
 
